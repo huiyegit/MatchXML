@@ -1,5 +1,6 @@
 # MatchXML
-This is the official repo of the paper [Rethinking Text-label Matching in Extreme Multi-label Text Classification](???)
+This is the official repo of the paper [MatchXML: An Efficient Text-label Matching Framework for Extreme Multi-label Text
+Classification](???)
 
 
 ## Install the environment
@@ -38,7 +39,7 @@ If you find this work useful in your research, please consider citing:
 
 ```
 @article{???,
-  title={Rethinking Text-label Matching in Extreme Multi-label Text Classification},
+  title={MatchXML: An Efficient Text-label Matching Framework for Extreme Multi-label Text Classification},
   author={Ye, Hui and Sunderraman, Rajshekhar and Ji, Shihao},
   journal={???},
   year={2022}
