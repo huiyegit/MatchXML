@@ -49,5 +49,4 @@ If you find this work useful in your research, please consider citing:
 [comment]: <> (## Acknowledgment)
 [comment]: <> (Our work is based on the following work:)
 [comment]: <> (- [Fast Multi-Resolution Transformer Fine-tuning for Extreme Multi-label Text Classification])
-[comment]: <> ( (https://arxiv.org/abs/2110.00685) [[code]](https://github.com/amzn/pecos/tree/mainline/examples/xr-transformer-neurips21))
 
