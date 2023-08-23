@@ -45,8 +45,8 @@ If you find this work useful in your research, please consider citing:
   year={2022}
 }
 
-[//]: # (```)
-[//]: # (## Acknowledgment)
-[//]: # (Our work is based on the following work:)
-[//]: # (- [Fast Multi-Resolution Transformer Fine-tuning for Extreme Multi-label Text Classification](https://arxiv.org/abs/2110.00685) [[code]](https://github.com/amzn/pecos/tree/mainline/examples/xr-transformer-neurips21))
+[//]: <> (```)
+[//]: <> (## Acknowledgment)
+[//]: <> (Our work is based on the following work:)
+[//]: <> (- [Fast Multi-Resolution Transformer Fine-tuning for Extreme Multi-label Text Classification](https://arxiv.org/abs/2110.00685) [[code]](https://github.com/amzn/pecos/tree/mainline/examples/xr-transformer-neurips21))
 
