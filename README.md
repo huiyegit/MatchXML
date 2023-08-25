@@ -18,7 +18,6 @@ Classification](???)
 * Download six XMC datasets from [XR-Transformer](https://github.com/amzn/pecos/tree/mainline/examples/xr-transformer-neurips21)
 
 * Download our trained label embeddings from [Google Drive](https://drive.google.com/drive/folders/1ehOU7mRpDdsCORVlVaSL7LidaOBonS5l?usp=sharing) and save them to `xmc-base/{dataset}`
-  
 * Download our static features(static sentence embeddings + TFIDF features)  from [Google Drive](https://drive.google.com/drive/folders/1ehOU7mRpDdsCORVlVaSL7LidaOBonS5l?usp=sharing) and save them to `xmc-base/{dataset}`
 
 
