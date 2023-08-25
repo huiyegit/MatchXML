@@ -29,3 +29,4 @@ yarg==0.1.9
 zipp==3.5.1
 libpecos==0.2.2
 gensim==3.8.0
+sentence-transformers==2.2.2
