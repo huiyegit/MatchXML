@@ -32,6 +32,11 @@ Classification](???)
 
 `bash ./label2vec_run/{dataset}.sh`  
 
+## Generate static text features
+
+`python sentence_embedding.py`  
+
+
 ## Pre-trained models
 * Our pre-trained models can be downloaded from [Google Drive](???)
 
