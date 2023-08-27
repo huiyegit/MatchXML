@@ -15,6 +15,7 @@ Classification](???)
     pip install -r requirements.txt
     ```
 ## Prepare Data
+`# eurlex-4k, wiki10-31k, amazoncat-31k, wiki-500k, amazon-670k, amazon-3m`
 * Download six XMC datasets from [XR-Transformer](https://github.com/amzn/pecos/tree/mainline/examples/xr-transformer-neurips21)
 
 * Download our trained label embeddings from [Google Drive](https://drive.google.com/drive/folders/1ehOU7mRpDdsCORVlVaSL7LidaOBonS5l?usp=sharing) and save them to `xmc-base/{dataset}`
