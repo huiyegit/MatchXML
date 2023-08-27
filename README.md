@@ -18,7 +18,7 @@ Classification](???)
 * Download six XMC datasets from [XR-Transformer](https://github.com/amzn/pecos/tree/mainline/examples/xr-transformer-neurips21)
 
 * Download our trained label embeddings from [Google Drive](https://drive.google.com/drive/folders/1ehOU7mRpDdsCORVlVaSL7LidaOBonS5l?usp=sharing) and save them to `xmc-base/{dataset}`
-* Download our static text features(__static sentence embeddings__ + TF-IDF features)  from [Google Drive](https://drive.google.com/drive/folders/1ehOU7mRpDdsCORVlVaSL7LidaOBonS5l?usp=sharing) and save them to `xmc-base/{dataset}/tfidf-attnxml`, replace the original TF-IDF features.
+* Download our static text features(__static sentence embeddings__ + TF-IDF features)  from [Google Drive](https://drive.google.com/drive/folders/1UYT5ORYhjlLFyKen6q0eUUDYVktRF2re?usp=share_link) and save them to `xmc-base/{dataset}/tfidf-attnxml`, replace the original TF-IDF features.
 
 
 ## Training MatchXML and evaluation
