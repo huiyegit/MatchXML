@@ -39,7 +39,7 @@ Classification](https://arxiv.org/abs/2308.13139)
 
 
 ## Pre-trained models
-* Our pre-trained models can be downloaded from [Google Drive](???)
+* Our pre-trained models can be downloaded from [Google Drive](???)(will be available in few weeks)
 
 ## Citation
 If you find this work useful in your research, please consider citing:
