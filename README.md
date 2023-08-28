@@ -45,7 +45,7 @@ Classification](???)
 If you find this work useful in your research, please consider citing:
 
 ```
-@articleye2023matchxml,
+@article{ye2023matchxml,
   title={MatchXML: An Efficient Text-label Matching Framework for Extreme Multi-label Text Classification},
   author={Hui Ye and Rajshekhar Sunderraman and Shihao Ji},
   eprint={2308.13139},
