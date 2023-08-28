@@ -1,6 +1,6 @@
 # MatchXML
 This is the official repo of the paper [MatchXML: An Efficient Text-label Matching Framework for Extreme Multi-label Text
-Classification](???)
+Classification](https://arxiv.org/abs/2308.13139)
 
 
 ## Install the environment
