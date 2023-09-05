@@ -22,13 +22,13 @@ Classification](https://arxiv.org/abs/2308.13139)
 * Download our static text features(__static sentence embeddings__ + TF-IDF features)  from [Google Drive](https://drive.google.com/drive/folders/1UYT5ORYhjlLFyKen6q0eUUDYVktRF2re?usp=share_link) and save them to `xmc-base/{dataset}/tfidf-attnxml`, replace the original TF-IDF features.
 
 
-## Training MatchXML and evaluation
+## Train MatchXML and evaluation
  `# eurlex-4k, wiki10-31k, amazoncat-31k, wiki-500k, amazon-670k, amazon-3m`
  
  `bash run.sh {dataset}`
 
 
-## Training label2vec
+## Train label2vec
 `# eurlex-4k, wiki10-31k, amazoncat-31k, wiki-500k, amazon-670k, amazon-3m`
 
 `bash ./label2vec_run/{dataset}.sh`  
