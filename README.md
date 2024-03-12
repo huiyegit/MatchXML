@@ -48,8 +48,9 @@ If you find this work useful in your research, please consider citing:
 @article{ye2023matchxml,
   title={MatchXML: An Efficient Text-label Matching Framework for Extreme Multi-label Text Classification},
   author={Ye, Hui and Sunderraman, Rajshekhar and Ji, Shihao},
-  journal={arXiv preprint arXiv:2308.13139},
-  year={2023}
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2023},
+  publisher={IEEE}
 }
 
 ```
