@@ -45,11 +45,11 @@ Classification](https://arxiv.org/abs/2308.13139)
 If you find this work useful in your research, please consider citing:
 
 ```
-@article{ye2023matchxml,
+@article{ye2024matchxml,
   title={MatchXML: An Efficient Text-label Matching Framework for Extreme Multi-label Text Classification},
   author={Ye, Hui and Sunderraman, Rajshekhar and Ji, Shihao},
   journal={IEEE Transactions on Knowledge and Data Engineering},
-  year={2023},
+  year={2024},
   publisher={IEEE}
 }
 
